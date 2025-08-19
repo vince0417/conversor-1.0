@@ -6,7 +6,7 @@ A aplicação permite converter números entre as principais bases numéricas: d
 
 Embora seja um projeto simples, ele foi pensado como um exercício prático para consolidar o aprendizado e pode ser útil para qualquer pessoa que esteja aprendendo sobre sistemas numéricos e C++.
 
-## 🚀 Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
@@ -19,7 +19,7 @@ cd conversor-1.0
 ./run.sh
 ```
 
-## 📦 Tecnologias Usadas
+## Tecnologias Usadas
 
 - Linguagem: C++
 
