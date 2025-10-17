@@ -56,11 +56,11 @@ int main()
             default:
                 std::cout << "Não foi possível encontrar esta opção, " << usuario << "\n";
         }
+        
         char continuar{};
-        std::cout << "\nDigite:\n" << "S para continuar;\n" << "N para encerrar o programa.\n";
-        std::cout << "Escolha: ";
+        std::cout << "\nDeseja continuar?(S/N): ";
         std::cin >> continuar;
-        if (continuar == 'S') continue;
+        if (continuar == 'S' || continuar == 's') continue;
         else{
             std::string temp{"....."};
             std::cout << "Fechando";
