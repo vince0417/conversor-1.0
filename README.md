@@ -24,6 +24,7 @@ cd conversor-1.0
 - Linguagem: C++
 
 ## Vídeo demonstrativo
+- Foram realizadas algumas mudanças e, no momento, o vídeo segue desatualizado. Em breve será trocado. 
 <div align="center" >
    <video src="https://github.com/user-attachments/assets/d8e99ae7-ba8a-4400-a85b-6a04ca58551a" /></a>
 </div>
