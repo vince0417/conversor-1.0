@@ -25,8 +25,8 @@ void Introducao::boasVindas(std::string& usuario, std::string& saudacao)
     std::getline(std::cin, usuario);
     std::cout << std::endl;
 
-    saudacao = "Será um prazer te ajudar, !\nEu sou um conversor de bases númericas.";
-    saudacao.insert(27,usuario); // Insere a string usuario no local específicado;
+    saudacao = "Será um prazer te ajudar, .\nVamos lá!";
+    saudacao.insert(27,usuario); // Insere usuario à saudacao a partir do índice 27;
     for (char letra : saudacao)
     {
         std::cout << letra << std::flush; // Imprime a letra atual e força o envio do buffer para o terminal, garantindo a impressão imediata.
