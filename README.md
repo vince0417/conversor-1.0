@@ -25,6 +25,6 @@ cd conversor-1.0
 
 ## Vídeo demonstrativo
 - Carregando...
-- 
+
 ## Desenvolvido por:
 Vicente Rodrigues.
